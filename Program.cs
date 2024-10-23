@@ -4,7 +4,7 @@
     {
         Console.WriteLine("Menu");
         Console.WriteLine("1. Asdf");
-        Console.WriteLine("2. Subbubb");
+        Console.WriteLine("2. TVåååå");
         Console.WriteLine("3. Multiplupp");
         Console.WriteLine("4. Dividdid");
         Console.WriteLine("5. Exit");
