@@ -3,12 +3,12 @@
     static void Main(string[] args)
     {
         Console.WriteLine("Menu");
-        Console.WriteLine("1. Add");
-        Console.WriteLine("2. Subtract");
-        Console.WriteLine("3. Multiply");
-        Console.WriteLine("4. Divide");
-        Console.WriteLine("5. Exit");
-        Console.Write("Enter your choice: ");
+        Console.WriteLine("1. Addition");
+        Console.WriteLine("2. Subtraktion");
+        Console.WriteLine("3. Multiplikation");
+        Console.WriteLine("4. Division");
+        Console.WriteLine("5. Avsluta");
+        Console.Write("Ange val: ");
         string choice = Console.ReadLine();
         switch (choice)
         {
@@ -27,7 +27,7 @@
             case "5":
                 return;
             default:
-                Console.WriteLine("Invalid choice");
+                Console.WriteLine("felaktigt val");
                 break;
         }
     }
