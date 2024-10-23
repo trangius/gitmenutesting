@@ -11,3 +11,10 @@
 1. Få till ett enkelt fungerande spel.
 2. Få till ett spel som har levels för spelaren.
 3. Lägga till klasser på varje spelare och fiende.
+
+```csharp
+Console.WriteLine("Hej världen!")
+
+```
+
+1. Hejhopp
