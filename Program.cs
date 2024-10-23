@@ -3,11 +3,11 @@
     static void Main(string[] args)
     {
         Console.WriteLine("Menu");
-        Console.WriteLine("1. Add");
-        Console.WriteLine("2. Subtract");
-        Console.WriteLine("3. Multiply");
-        Console.WriteLine("4. Divide");
-        Console.WriteLine("5. Exit");
+        Console.WriteLine("1. Asdf");
+        Console.WriteLine("2. Subbubb");
+        Console.WriteLine("3. Multiplupp");
+        Console.WriteLine("4. Dividdid");
+        Console.WriteLine("5. Exxxxt");
         Console.Write("Enter your choice: ");
         string choice = Console.ReadLine();
         switch (choice)
