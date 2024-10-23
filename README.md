@@ -3,3 +3,5 @@
 - [ ] skapa funktionerna
 - [ ] hitta på fler saker
 - [ ] gå på promenad
+## Framtida förbättringar
+- [ ] Skapa en itemGenerator
