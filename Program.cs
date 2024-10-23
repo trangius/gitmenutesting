@@ -7,7 +7,7 @@
         Console.WriteLine("2. Subbubb");
         Console.WriteLine("3. Multiplupp");
         Console.WriteLine("4. Dividdid");
-        Console.WriteLine("5. Exxxxt");
+        Console.WriteLine("5. Exit");
         Console.Write("Enter your choice: ");
         string choice = Console.ReadLine();
         switch (choice)
