@@ -9,22 +9,22 @@
         Console.WriteLine("4. Divide");
         Console.WriteLine("5. Exit");
         Console.Write("Enter your choice: ");
-        int choice = Convert.ToInt32(Console.ReadLine());
+        string choice = Console.ReadLine();
         switch (choice)
         {
-            case 1:
+            case "1":
                 //Add();
                 break;
-            case 2:
+            case "2":
                 //Subtract();
                 break;
-            case 3:
+            case "3":
                 //Multiply();
                 break;
-            case 4:
+            case "4":
                 //Divide();
                 break;
-            case 5:
+            case "5":
                 return;
             default:
                 Console.WriteLine("Invalid choice");
