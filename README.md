@@ -13,8 +13,7 @@
 3. Lägga till klasser på varje spelare och fiende.
 
 ```bash
-ls
+ls -lr
 echo  apa
-```
-
 1. Hejhopp
+funkar inte
