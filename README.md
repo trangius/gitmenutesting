@@ -12,9 +12,9 @@
 2. Få till ett spel som har levels för spelaren.
 3. Lägga till klasser på varje spelare och fiende.
 
-```csharp
-Console.WriteLine("Hej världen!")
-
+```bash
+ls
+echo  apa
 ```
 
 1. Hejhopp
