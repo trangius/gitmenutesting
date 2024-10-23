@@ -5,7 +5,7 @@
         Console.WriteLine("Menu");
         Console.WriteLine("1. Asdf");
         Console.WriteLine("2. TVåååå");
-        Console.WriteLine("3. threeee!!!");
+        Console.WriteLine("3. Multiplyhehej");
         Console.WriteLine("4. Dividdid");
         Console.WriteLine("5. Exit");
         Console.Write("Enter your choice: ");
